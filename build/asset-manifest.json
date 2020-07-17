@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1afa25b1.chunk.css",
+    "main.js": "/static/js/main.6cced7f6.chunk.js",
+    "main.js.map": "/static/js/main.6cced7f6.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.92d7961b.js",
+    "runtime-main.js.map": "/static/js/runtime-main.92d7961b.js.map",
+    "static/css/2.55146207.chunk.css": "/static/css/2.55146207.chunk.css",
+    "static/js/2.f42cc32a.chunk.js": "/static/js/2.f42cc32a.chunk.js",
+    "static/js/2.f42cc32a.chunk.js.map": "/static/js/2.f42cc32a.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.5b924fe66af7cca2842a790ae413d394.js": "/precache-manifest.5b924fe66af7cca2842a790ae413d394.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.55146207.chunk.css.map": "/static/css/2.55146207.chunk.css.map",
+    "static/css/main.1afa25b1.chunk.css.map": "/static/css/main.1afa25b1.chunk.css.map",
+    "static/js/2.f42cc32a.chunk.js.LICENSE.txt": "/static/js/2.f42cc32a.chunk.js.LICENSE.txt",
+    "static/media/Features.JPG": "/static/media/Features.4c33309c.JPG",
+    "static/media/Homepage.JPG": "/static/media/Homepage.40a705be.JPG",
+    "static/media/Onlinepooja.JPG": "/static/media/Onlinepooja.df2baeca.JPG",
+    "static/media/Pricing.JPG": "/static/media/Pricing.fe3a6d04.JPG",
+    "static/media/Proj3.jpg": "/static/media/Proj3.627d7616.jpg",
+    "static/media/Proj4.jpg": "/static/media/Proj4.7e27bd0b.jpg",
+    "static/media/mypic3.jpg": "/static/media/mypic3.992e50da.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.92d7961b.js",
+    "static/css/2.55146207.chunk.css",
+    "static/js/2.f42cc32a.chunk.js",
+    "static/css/main.1afa25b1.chunk.css",
+    "static/js/main.6cced7f6.chunk.js"
+  ]
+}
